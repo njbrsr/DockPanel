@@ -1,0 +1,11 @@
+C:\Users\brasin\dev\DockPanel\DockPanel\bin\Debug\net48\DockPanel.rhp
+C:\Users\brasin\dev\DockPanel\DockPanel\bin\Debug\net48\DockPanel.pdb
+C:\Users\brasin\dev\DockPanel\DockPanel\obj\Debug\net48\DockPanel.csproj.AssemblyReference.cache
+C:\Users\brasin\dev\DockPanel\DockPanel\obj\Debug\net48\DockPanel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brasin\dev\DockPanel\DockPanel\obj\Debug\net48\DockPanel.AssemblyInfoInputs.cache
+C:\Users\brasin\dev\DockPanel\DockPanel\obj\Debug\net48\DockPanel.AssemblyInfo.cs
+C:\Users\brasin\dev\DockPanel\DockPanel\obj\Debug\net48\DockPanel.csproj.CoreCompileInputs.cache
+C:\Users\brasin\dev\DockPanel\DockPanel\obj\Debug\net48\DockPanel.rhp
+C:\Users\brasin\dev\DockPanel\DockPanel\obj\Debug\net48\DockPanel.pdb
+C:\Users\brasin\dev\DockPanel\DockPanel\obj\Debug\net48\DockPanel.Properties.Resources.resources
+C:\Users\brasin\dev\DockPanel\DockPanel\obj\Debug\net48\DockPanel.csproj.GenerateResource.cache

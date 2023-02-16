@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sam7QyOVra7/HQa3B/mAd169ZO6tPJhqPCzlpHgJ7S85Z6uqhkyMK5rYbpSfcpF+AwbjYLFiBXwjN/a6axXOuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\brasin\\dev\\DockPanel\\DockPanel\\DockPanel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\brasin\\.nuget\\packages\\rhinocommon\\7.13.21348.13001\\rhinocommon.7.13.21348.13001.nupkg.sha512"
+  ],
+  "logs": []
+}

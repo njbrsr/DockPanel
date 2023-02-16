@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32519.379
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DockPanel", "DockPanel\DockPanel.csproj", "{886B72D9-7723-4766-954B-5746B87AEC2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{886B72D9-7723-4766-954B-5746B87AEC2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{886B72D9-7723-4766-954B-5746B87AEC2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{886B72D9-7723-4766-954B-5746B87AEC2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{886B72D9-7723-4766-954B-5746B87AEC2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2E091B1E-DEF7-4BE7-93C2-631E4E38FE9C}
+	EndGlobalSection
+EndGlobal

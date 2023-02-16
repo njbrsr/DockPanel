@@ -1,0 +1,45 @@
+<head>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.9.4/Chart.js"></script>
+</head>
+<body>
+
+  <button type="button" id="select_road">Select Road</button>
+  <button type="button" id="select_terrain">Select Terrain Mesh</button>
+    <p> Runoff limit <input type = 'range' min = '0' max = '100' value = '50' class='slider' id='runoffLimit'></p>
+    <p id='valTracker'>value2</p>
+    <canvas id="myChart" style="width:100%;max-width:700px"></canvas>
+
+
+
+
+
+    <script>var xValues = [50,60,70,80,90,100,110,120,130,140,150];
+var yValues = [7,8,8,9,9,9,10,11,14,14,15];
+
+new Chart("myChart", {
+  type: "line",
+  data: {
+    labels: xValues,
+    datasets: [{
+      backgroundColor: "rgba(0,0,0,1.0)",
+      borderColor: "rgba(0,0,0,0.1)",
+      data: yValues
+    }]
+  },
+  options:{}
+});
+    </script>
+    <script>
+    document.getElementById('runoffLimit').onchange=function(){
+        window.location='greenscenario:runofflimit';
+        document.getElementById('valTracker').innerHTML=document.getElementById('runoffLimit').value
+        };
+        document.getElementById('select_road').onclick=function(){
+        window.location='greenscenario:select_road';
+        };
+        document.getElementById('select_terrain').onclick=function(){
+        window.location='greenscenario:select_terrain';
+        };
+    </script>
+</body>
+</html>
